@@ -33,7 +33,7 @@ public class StudentController {
 	@RequestMapping("toadd")
 	public String toadd() {
 		return "add";
-		///
+		///sadasas
 		
 		
 		
