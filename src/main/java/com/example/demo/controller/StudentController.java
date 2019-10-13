@@ -34,6 +34,9 @@ public class StudentController {
 	public String toadd() {
 		return "add";
 		
+		
+		
+		
 	}
 	//zxczxcxzzzzz
 	@RequestMapping("addStudent")
