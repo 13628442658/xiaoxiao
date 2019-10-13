@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.example.demo.pojo.Student;
 import com.example.demo.service.StudentService;
-//sadassadasasdassssssssadsa
+//sadassadasasdassssssssadsazz
 @Controller
 public class StudentController {
 
