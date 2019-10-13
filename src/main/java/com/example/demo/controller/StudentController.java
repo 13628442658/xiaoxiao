@@ -35,6 +35,7 @@ public class StudentController {
 		return "add";
 		
 	}
+	//zxczxcxz
 	@RequestMapping("addStudent")
 	public String addStudent(Student student) {
 		ListOperations<String, Object> opsForList = redisTemplate.opsForList();
